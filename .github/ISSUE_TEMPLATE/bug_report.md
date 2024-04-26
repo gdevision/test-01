@@ -1,5 +1,6 @@
 ---
 name: Bug Report
+about: Open a bug report to help us improve our game.
 title: ''
 labels: 'bug'
 ---
