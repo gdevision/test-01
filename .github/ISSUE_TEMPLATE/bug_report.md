@@ -7,7 +7,7 @@ labels: 'bug'
 
 ### Bug Description
 
-<!-- A clear and concise description of what the bug is
+<!-- A clear and concise description of what the bug is -->
 
 ### To Reproduce
 
